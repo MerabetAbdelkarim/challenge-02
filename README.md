@@ -21,7 +21,8 @@ Clone this repository.
  1.  [`Html`](https://developer.mozilla.org/en-US/docs/Web/HTML) 
  2.  [`Css`](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 
-## Application description
+## Screenshot
 
  
+![screenshot](https://github.com/MerabetAbdelkarim/challenge-02/assets/95025226/137ad6d4-73aa-4153-b2b5-8296864c450b)
 
