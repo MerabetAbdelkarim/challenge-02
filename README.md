@@ -16,7 +16,7 @@ Clone this repository.
 
 
 
-## Framework and programming Language used
+## Programming Language used
 
  1.  [`Html`](https://developer.mozilla.org/en-US/docs/Web/HTML) 
  2.  [`Css`](https://developer.mozilla.org/en-US/docs/Web/CSS) 
